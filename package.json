@@ -1,0 +1,25 @@
+{
+  "name": "2020310781_lab07",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leesj10147/2020310781_skku_stat.git"
+  },
+  "bin": {
+    "stat": "./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leesj10147/2020310781_skku_stat/issues"
+  },
+  "homepage": "https://github.com/leesj10147/2020310781_skku_stat#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
