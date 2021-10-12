@@ -3,7 +3,7 @@ const lib = require("./lib")
 
 test("sum([1, 2]) should be 3", ()=>
 {
-    expect(lib.sum([1, 2])).toBe(5);
+    expect(lib.sum([1, 2])).toBe(3);
 });
 test("avg([-5, 5]) should be 0", () =>
 {

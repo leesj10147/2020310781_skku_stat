@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 if (process.argv.length <= 3)
 {
-    console.log("Insufficient parameter!");
+    console.log("Insufficient parameters!");
     process.exit(1);
 }
 
