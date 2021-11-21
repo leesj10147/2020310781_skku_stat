@@ -32,4 +32,4 @@ switch (command) {
         break;
 }
 
-console.log(result);
+console.log(result);;;;
